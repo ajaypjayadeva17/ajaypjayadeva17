@@ -1,5 +1,5 @@
 Hello👋
-I am Ajay Poojar Jayadeva , Welcome to Github Profile 
+I am Ajay Poojar Jayadeva , Welcome to My Github Profile 
 
 
 - 🔭 I’m currently working as Software Engineer @ Manhattan Assiociates.
